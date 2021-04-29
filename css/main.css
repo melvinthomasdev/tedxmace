@@ -5623,6 +5623,7 @@ html.no-csstransitions .home-content__main {
 
 
 .home-ysh__buttons {
+    position:relative;
 
     padding-top: 70rem;
 
@@ -5639,6 +5640,8 @@ html.no-csstransitions .home-content__main {
     background: #0F2027;  /* fallback for old browsers */
 
     border-color: #ffffff; 
+
+    position:relative;
 
     color: #ffffff;
 
@@ -5690,6 +5693,11 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 1200px) {
 
+    .home-ysh__buttons .btn{
+        margin-top:auto;
+    }
+
+
     .speakers-list {
 
         max-width: 1000px;
@@ -5714,6 +5722,11 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 1000px) {
 
+
+    .home-ysh__buttons .btn{
+        margin-top:auto;
+    }
+
     .speakers-list h3 {
 
         font-size: 2.5rem;
@@ -5737,6 +5750,10 @@ html.no-csstransitions .home-content__main {
 
 
 @media only screen and (max-width: 800px) {
+
+    .home-ysh__buttons .btn{
+        margin-top:auto;
+    }
 
     .speakers-list {
 
@@ -5784,6 +5801,10 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 600px) {
 
+    .home-ysh__buttons .btn{
+        margin-top:auto;
+    }
+
     .s-speakers {
 
         padding-top: 12rem;
@@ -5809,6 +5830,11 @@ html.no-csstransitions .home-content__main {
 
 
 @media only screen and (max-width: 400px) {
+
+
+    .home-ysh__buttons .btn{
+        margin-top:auto;
+    }
 
     .speakers-list .service-item:nth-child(n) {
 
