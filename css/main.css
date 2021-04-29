@@ -5752,7 +5752,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 800px) {
 
     .home-ysh__buttons .btn{
-        margin-top:auto;
+        margin-top:10px;
     }
 
     .speakers-list {
@@ -5802,7 +5802,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 600px) {
 
     .home-ysh__buttons .btn{
-        margin-top:auto;
+        margin-top:10px;
     }
 
     .s-speakers {
@@ -5833,7 +5833,7 @@ html.no-csstransitions .home-content__main {
 
 
     .home-ysh__buttons .btn{
-        margin-top:auto;
+        margin-top:10px;
     }
 
     .speakers-list .service-item:nth-child(n) {
